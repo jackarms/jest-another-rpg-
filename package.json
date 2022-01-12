@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg-",
+  "version": "1.0.0",
+  "description": "Command line RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackarms/jest-another-rpg-.git"
+  },
+  "keywords": [
+    "Command",
+    "line",
+    "RPG"
+  ],
+  "author": "John Armstrong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackarms/jest-another-rpg-/issues"
+  },
+  "homepage": "https://github.com/jackarms/jest-another-rpg-#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
